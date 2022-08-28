@@ -1,0 +1,7 @@
+﻿  ConsoleApplication24.cpp
+C:\Users\Admin\source\repos\ConsoleApplication24\ConsoleApplication24\ConsoleApplication24.cpp(61,35): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=float
+          ]
+  ConsoleApplication24.vcxproj -> C:\Users\Admin\source\repos\ConsoleApplication24\x64\Debug\ConsoleApplication24.exe
